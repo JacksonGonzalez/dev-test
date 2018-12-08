@@ -37,7 +37,19 @@ header > ul > li > a:link {
 
 .bottom{
     text-align: center;
+    
+}
 
+.btn-personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    /* font-size: 20px; */
+    color: #ffffff;
+    background-color: #512182;
+    border-radius: 8px;
+    border: 3px groove rgba(81,33,130, .6);
+    width: 200px;
 }
 
 .letra{

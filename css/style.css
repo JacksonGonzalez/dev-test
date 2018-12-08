@@ -68,3 +68,16 @@ header > ul > li > a:link {
 .caja-3{
     background-color: #431b6c;
 }
+
+.despedida{
+    background-color: #5e2697;
+    height: 660px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-despedida{
+    /* margin: 0 auto; */
+    font-size: 56px;
+}

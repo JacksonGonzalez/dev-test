@@ -52,6 +52,9 @@ header > ul > li > a:link {
     background-color: rgba(0, 0, 0, .2);
     border: #5e2697;
     resize: none;
+    color: white;
+    font-size: 20px;
+    padding: 18px;
 }
 
 .titulo{
